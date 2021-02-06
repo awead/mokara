@@ -7,6 +7,8 @@ gemspec
 
 gem 'rake', '~> 12.0'
 gem 'rspec', '~> 3.0'
+gem 'rspec-its', '~> 1.3'
 gem 'rubocop', '~> 1.9'
 gem 'rubocop-rspec', '~> 2.2'
 gem 'vcr', '~> 6.0'
+gem 'webmock', '~> 3.11'
